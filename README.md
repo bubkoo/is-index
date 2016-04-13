@@ -49,6 +49,7 @@ isIndex([]);       // => false
 - [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or an array-like object.
 - [is-length](https://github.com/bubkoo/is-length) - Checks if the given value is a valid array-like length.
 
+
 ## Contributing
 
 Pull requests and stars are highly welcome.
