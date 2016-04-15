@@ -1,6 +1,6 @@
 {
   "name": "is-index",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Checks if the given value is a valid array-like index.",
   "main": "index.js",
   "scripts": {
@@ -33,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/is-index.git"
+    "url": "git+https://github.com/gearcase/is-index.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/is-index/issues"
+    "url": "https://github.com/gearcase/is-index/issues"
   },
-  "homepage": "https://github.com/bubkoo/is-index#readme",
+  "homepage": "https://github.com/gearcase/is-index#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
